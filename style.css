@@ -1,0 +1,68 @@
+header {
+    background: linear-gradient(to top left, #023608 45%, 
+    #00ff1d
+     130%);
+    color: white;
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    transition: .9s;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 15px;
+}
+li {
+    list-style-type: none;
+    display: inline;
+    margin: 50px;
+}
+body {
+    margin: 0 auto;
+    background-color: black;
+    background-size: cover;
+    font-family: 'Foldit', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+a:hover {
+    color: green;
+    border-color: green;
+    transition: .9s;
+}
+ul {
+    text-align: center;
+    padding: 10px;
+}
+h1 {
+    font-size: 40px;
+    letter-spacing: 7px;
+    text-shadow: 3px 3px #65C700;
+}
+table {
+  border-collapse: collapse;
+  width: 1000px;
+  color: white;
+  margin-left: 150px;
+}
+td, th {
+  border:1px solid white;
+  border-radius: 20px;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  line-height: 60px;
+}
+.minichad {
+    font-size: 40px;
+}
+.goabigchads {
+    font-size: 40px;
+    width: 1000px;
+    margin-top: 50px;
+}
